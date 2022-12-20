@@ -31,6 +31,6 @@ I'm an enthusiastic M.Sc. Student of Computer Science and Engineering at Politec
 #### 📫 How to reach me: 
 **elisa.servidio09@gmail.com**
 <p align="left">
-<a href="https://linkedin.com/in/elisa-s-37539a244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisa-s-37539a244" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ElisaServidio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisa-s-37539a244" height="30" width="40" /></a>
 </p>
 
